@@ -37,6 +37,7 @@ body{
     font-size: 16px;
     border-radius: 8px;
   }
+
   .form button {
     font-family: "Times", sans-serif;
     text-transform: uppercase;
@@ -51,7 +52,7 @@ body{
     transition: all 0.3 ease;
     cursor: pointer;
     border-radius: 8px;
-    box-shadow: 0 0 20px 0 rgba(88, 87, 89, 2.0), 0 5px 5px 0 rgba(88, 87, 89, 2.15);
+    box-shadow: 0 0 20px 0 rgba(50, 51, 51, 0.8), 0 5px 5px 0 rgba(50, 51, 51, 1.45);
   }
   
   
@@ -63,7 +64,7 @@ body{
   .imagem{
     margin-bottom: 12px;
     width: 100%;
-    border-radius: 8px;
+    border-radius: 8px; 
     border: 1px solidrgba(20, 90, 63, 0.8);
   }
 
