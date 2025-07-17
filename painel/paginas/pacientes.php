@@ -163,7 +163,7 @@ if(@$pacientes == 'ocultar'){
 
 							<hr>
 
-							<div class="row">
+					<div class="row">
 						<div class="col-md-5">							
 							<label>Nome Responsável</label>
 							<input type="text" class="form-control" id="nome_responsavel" name="nome_responsavel" placeholder="Seu Nome">							
